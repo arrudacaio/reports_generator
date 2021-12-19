@@ -1,6 +1,6 @@
 # ReportsGenerator
 
-**TODO: Add description**
+**Application to generate a report from spreadsheet and for learning the elixir language**
 
 ## Installation
 
