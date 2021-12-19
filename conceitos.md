@@ -56,3 +56,5 @@ todos os seus elementos.
 
 ```
 
+## O módulo Stream (Lazy)
+é um módulo que também é preguiçoso e só vai fazer determinado ato quando for necessário
